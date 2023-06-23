@@ -1,2 +1,3 @@
 # ProfessionalStatement
-This is a professional statement.
+
+As a student named Nick Dailey, I'm thrilled to dive into the world of cyber security with enthusiasm, intelligence, and humor. With a deep passion for protecting data and infrastructure, I unravel complex systems, pinpoint vulnerabilities, and devise strong solutions. Continuous learning and adaptability drive me to exceed ethical standards and earn your trust. Joining your organization, I implement proactive measures, conduct risk assessments, and foster cyber resilience. Through simplified communication, I empower everyone to prioritize security. Together, let's fortify defenses, secure data, and shape a brighter digital future.
